@@ -4,4 +4,4 @@
 </div>
 
 
-<img src="https://github.com/{saicodesfunny-bit}/{USERNAME}/blob/main/software-developer.png" alt="Pink Maroon and Blue Modern Design Portfolio Review Banner Landscape.png">
+<img src="https://github.com/{saicodesfunny-bit}/{saicodesfunny-bit}/blob/main/software-developer.png" alt="Pink Maroon and Blue Modern Design Portfolio Review Banner Landscape.png">
