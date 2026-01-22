@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ghostedvpn-hacker-cat.gif" width="600"/>
+  <img src="ghostedvpn-hacker-cat.gif" width="400"/>
 </p>
 
 <p>
