@@ -1,8 +1,8 @@
 <p align="center">
-  <p align="center">
-  <img src="[(https://tenor.com/en-GB/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292)&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[demo.gif](https://tenor.com/en-GB/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292)" width="600"/>
 </p>
-</p>
+
+<p>
 <h1 align="center">Hello! I'm Saiyara Sayeed</h1>
 <h3 align="center">Aspiring IT Engineer |  Data Analysis Enthusiast | Python & JavaScript </h3> 
 
