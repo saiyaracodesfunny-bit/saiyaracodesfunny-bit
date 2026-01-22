@@ -1,23 +1,22 @@
-<h1 align="center">Hi! I'm Saiyara</h1>
-<h3 align="center">Aspiring IT Engineer |  Data Analysis Enthusiast | Python & JavaScript </h3> -->
+<h1 align="center">Hello! I'm Saiyara Sayeed</h1>
+<h3 align="center">Aspiring IT Engineer |  Data Analysis Enthusiast | Python & JavaScript </h3> 
 
 <p align="center">
-  🚀 I build real-world projects using Python, JavaScript, and data analysis tools.  
-  📊 I enjoy working with data, automation, and intelligent applications.
+I build real-world projects using Python, JavaScript, and data analysis tools.  
+I enjoy working with data, automation, and AI.
 </p>
 
----
 
-## 👨‍💻 About Me
+## About Me
 
 - 🔹 Python Developer (Data Analysis, Automation, ML basics)  
 - 🔹 JavaScript Developer (Web & logic-based projects)  
 - 🔹 Interested in Data Science, AI tools, and problem-solving  
 - 🔹 Always learning and building projects  
 
----
 
-## 🛠️ Tech Stack
+
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,9 +28,8 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📌 Featured Projects
+##  Featured Projects
 
 🔹 **IVY – Virtual Closet Assistant**  
 Personalized outfit recommendation system using NLP & Hug
