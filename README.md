@@ -1,5 +1,7 @@
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="4373606555250453292" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292">Ghostedvpn Hacker Cat GIF</a>from <a href="https://tenor.com/search/ghostedvpn-gifs">Ghostedvpn GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <p align="center">
+  <img src="[(https://tenor.com/en-GB/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292)&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 </p>
 <h1 align="center">Hello! I'm Saiyara Sayeed</h1>
 <h3 align="center">Aspiring IT Engineer |  Data Analysis Enthusiast | Python & JavaScript </h3> 
