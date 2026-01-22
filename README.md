@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello! I'm Saiyara Sayeed &animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h1 align="center">Hello! I'm Saiyara Sayeed</h1>
 <h3 align="center">Aspiring IT Engineer |  Data Analysis Enthusiast | Python & JavaScript </h3> 
 
